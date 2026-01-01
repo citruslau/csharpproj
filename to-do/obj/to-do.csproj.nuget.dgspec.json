@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharpproj\\habit-tracker\\habit-tracker.csproj": {}
+    "D:\\csharpproj\\to-do\\to-do.csproj": {}
   },
   "projects": {
-    "D:\\csharpproj\\habit-tracker\\habit-tracker.csproj": {
+    "D:\\csharpproj\\to-do\\to-do.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharpproj\\habit-tracker\\habit-tracker.csproj",
-        "projectName": "habit-tracker",
-        "projectPath": "D:\\csharpproj\\habit-tracker\\habit-tracker.csproj",
+        "projectUniqueName": "D:\\csharpproj\\to-do\\to-do.csproj",
+        "projectName": "to-do",
+        "projectPath": "D:\\csharpproj\\to-do\\to-do.csproj",
         "packagesPath": "C:\\Users\\lesane\\.nuget\\packages\\",
-        "outputPath": "D:\\csharpproj\\habit-tracker\\obj\\",
+        "outputPath": "D:\\csharpproj\\to-do\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lesane\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.Data.Sqlite": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
