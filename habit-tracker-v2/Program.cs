@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using Microsoft.Data.Sqlite;
-using Dapper; // Recommended: Install via NuGet for cleaner data mapping
+using Dapper;
 
 namespace habit_tracker;
 
